@@ -12,7 +12,7 @@ public class NullPointerExceptionSample {
 		NullPointerExceptionSample ne = new NullPointerExceptionSample();
 		System.out.println("The program is regarding Null pointer exception");
 		ne.display();
-		System.out.println("Endo of the code");//end of the code will not print.bcz the error is found from 15th line itself and that never get execute the remaining code
+		System.out.println("Endo of the code"); //end of the code will not print.bcz the error is found from 15th line itself and that never get execute the remaining code
 	}
 
 }
