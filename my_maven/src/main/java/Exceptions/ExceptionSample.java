@@ -14,7 +14,7 @@ public class ExceptionSample {
 		ExceptionSample es = new ExceptionSample();
 		System.out.println("End of statement");
 		es.display();
-		System.out.println("End of statement");
+		System.out.println("End of statement");//this statement will not print since after object creationit will call es.display and the below code will not work.
 
 	}
 
