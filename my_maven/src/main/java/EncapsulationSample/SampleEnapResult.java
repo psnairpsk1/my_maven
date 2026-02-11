@@ -8,6 +8,7 @@ public class SampleEnapResult {
 		encapsulated class menthods*/
 		en.setter("Raju",300000);//for setting the values
 		en.getter();//for getting the result
+		System.out.println("Git Update");
 
 	}
 
