@@ -26,6 +26,7 @@ public class LinkedListSample {
 		//remove
 		ll.remove(4);
 		System.out.println(ll);
+		
 		//	//add all to add al2 to li
 		ll.addAll(lls);
 		System.out.println(ll);
